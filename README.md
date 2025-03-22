@@ -98,12 +98,14 @@ Each source is accompanied by a paragraph that justifies its inclusion and relev
 All sources are cited using the Harvard Referencing Style, including proper citation of online sources, journal articles, and industry reports.
 
 ## 👤 Author
-[Your Full Name]
-Student ID: [Your Matric Number]
-Programme: [Your Course Name]
-University: [University Name]
-Module: Ethical Issues in Marketing
-Date: [Submission Date]
+```
+- [Your Full Name]
+- Student ID: [Your Matric Number]
+- Programme: [Your Course Name]
+- University: [University Name]
+- Module: Ethical Issues in Marketing
+- Date: [Submission Date]
+```
 
 ## 🏛️ License
 This project is intended for academic and educational purposes only. Not for commercial redistribution.
