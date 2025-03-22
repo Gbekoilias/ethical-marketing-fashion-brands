@@ -75,7 +75,7 @@ Each source is accompanied by a paragraph that justifies its inclusion and relev
 
 ## 📁 Repository Contents
 
-
+```
 ├── report/
 │   ├── ethical-marketing-report.docx      # Main written report
 │   └── plagiarism-declaration.pdf
