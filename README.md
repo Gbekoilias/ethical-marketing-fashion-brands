@@ -1,5 +1,6 @@
 # Ethical Marketing Practices in the Fashion Industry
 
+![Alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeaORADzh3JsLavoGWkIE61MbvQqNUeCEWZLKzx3t3bM5M1A4VRyei8KQriR3U1RV_HY&usqp=CAU)
 This repository contains a comprehensive academic report evaluating how Western fashion brands should respond to the ethical controversies surrounding the treatment of garment workers in Asia. The work focuses on marketing implications, corporate social responsibility (CSR), branding, public relations (PR), and consumer behavior.
 
 ---
