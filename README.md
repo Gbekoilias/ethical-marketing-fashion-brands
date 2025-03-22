@@ -92,6 +92,7 @@ Each source is accompanied by a paragraph that justifies its inclusion and relev
 │   └── harvard-style-bibliography.txt
 │
 └── README.md
+```
 
 ## 📎 Referencing Style
 All sources are cited using the Harvard Referencing Style, including proper citation of online sources, journal articles, and industry reports.
