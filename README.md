@@ -1,5 +1,4 @@
-# Ethical Marketing Practices in the Fashion Industry
-
+# Ethical Accountability in the Fashion Supply Chain: A Strategic Marketing Response to Labour Exploitation in Asia
 ![Alt text](https://www.ecotextile.com/wp-content/uploads/2019/11/Garmentworkers.jpg)
 This repository contains a comprehensive academic report evaluating how Western fashion brands should respond to the ethical controversies surrounding the treatment of garment workers in Asia. The work focuses on marketing implications, corporate social responsibility (CSR), branding, public relations (PR), and consumer behavior.
 
